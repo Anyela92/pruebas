@@ -1,0 +1,4 @@
+TestClass.java
+ TestClass
+TestRegistro.java
+ TestRegistro
