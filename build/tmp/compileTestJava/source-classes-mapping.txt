@@ -1,4 +1,6 @@
-TestClass.java
- TestClass
-TestRegistro.java
- TestRegistro
+TestBuscar.java
+ TestBuscar
+TestLogin.java
+ TestLogin
+TestCrearCuenta.java
+ TestCrearCuenta
